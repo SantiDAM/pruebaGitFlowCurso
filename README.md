@@ -6,3 +6,5 @@ Probando Git Flow
 ```bash
 cd ..
 ```
+
+Corregido error
